@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Path=xxx
+Exec=xxx/tetris
+Name=Tetris
+Categories=Game;
+Icon=xxx/icon/tetris.png

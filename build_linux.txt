@@ -1,0 +1,1 @@
+g++ -std=c++11 -g tetris.cc -o tetris -Wpedantic -lSDL2 -lSDL2_ttf -I /usr/include/SDL2
